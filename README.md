@@ -9,7 +9,7 @@
                                  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝
                                       One Hit To Install Them All
 ```
-Onehit is a lightweight installer script by community to the community.
+Onehit is a lightweight installer script by the community, for the community and of the community. 
 
 Onehit ensure you have installed all the necessary tools and dependencies for your bug hunting in your Machines.
 
