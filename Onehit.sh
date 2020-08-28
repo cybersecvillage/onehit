@@ -374,7 +374,7 @@ cd $port_dir
     #dnmasscan
     wget https://raw.githubusercontent.com/rastating/dnmasscan/master/dnmasscan -o dnmasscan
 } > /dev/null 2>&1
-Port_Analysis
+Port_analysis
 
 
 # Wordlists
